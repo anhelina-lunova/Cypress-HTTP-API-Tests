@@ -18,3 +18,12 @@
 ## Результат
 
 ![Screenshot](https://i.imgur.com/qOH5iPY.png)
+
+---
+
+### Домашня робота
+Візьми свій проєкт з Cypress. Залий його на github, якщо він ще досі не там.
+
+Налаштуй для цього проєкту автоматичний запуск тестів при додаванні (push) нового коду в гілку main, використовуючи Github Actions.
+
+Використовуй [ось цю інструкцію](https://docs.cypress.io/guides/continuous-integration/github-actions#What-you-ll-learn)

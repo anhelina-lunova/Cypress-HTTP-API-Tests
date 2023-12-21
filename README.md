@@ -27,3 +27,10 @@
 Налаштуй для цього проєкту автоматичний запуск тестів при додаванні (push) нового коду в гілку main, використовуючи Github Actions.
 
 Використовуй [ось цю інструкцію](https://docs.cypress.io/guides/continuous-integration/github-actions#What-you-ll-learn)
+
+---
+
+## Результат
+
+1. [workflow](https://github.com/anhelina-lunova/goit-aqa-module4-hw/blob/main/.github/workflows/main.yml)
+2. [build](https://github.com/anhelina-lunova/goit-aqa-module4-hw/actions/runs/5101684436/jobs/9170730975)
